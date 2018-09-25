@@ -1,5 +1,6 @@
-print("Hello")
-print("everybody")
-print("Hi there")
-print("Hello friends")
-print("glad to see you")
+print("Hello;")
+print("everybody;")
+print("Hi there;")
+print("Hello friends;")
+print("glad to see you;")
+
